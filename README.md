@@ -43,12 +43,15 @@ rapid increases or decreases.
 created dynamic charts to depict:
 
 o Predictive Analysis: Future Debt Trends.
+
 ![image](https://github.com/user-attachments/assets/507a6b1c-4f28-49a9-b659-b7a349de120a)
 
 o Year-on-year debt changes.
+
 ![image](https://github.com/user-attachments/assets/acef8699-03e4-4499-932e-edf06b68a872)
 
 o Monthly debt changes.
+
 ![image](https://github.com/user-attachments/assets/cb7d1d32-0cbb-4f16-ba75-d518187687d1)
 
 Key Insights
