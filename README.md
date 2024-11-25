@@ -25,24 +25,26 @@ stakeholder presentations.
 
 ### Analysis Steps
 1. **Data Cleaning**:
+   
 o Handled missing or incorrect data using techniques like interpolation
 and formula validation.
 
 o Removed redundant entries to ensure a consistent dataset.
 
 2. **Trend Analysis**:
+   
 o Tracked total debt over decades to identify growth patterns and periods
 of significant change.
 
-3. **Key Metrics Calculation**:
-o Debt-to-GDP Ratio: Determined the percentage of debt relative to the
+4. **Key Metrics Calculation**:
+   
+o **Debt-to-GDP Ratio**: Determined the percentage of debt relative to the
 national GDP for each year.
 
-4. Year-over-Year Growth: Calculated annual changes in debt to highlight
+o **Year-over-Year Growth**: Calculated annual changes in debt to highlight
 rapid increases or decreases.
 
-5. **Predictive Analysis**:
-o Performed a predictive analysis to forecast future debt trends using historical data and key economic factors, providing insights into potential debt scenarios for the coming years.
+o **Predictive Analysis**: Performed a predictive analysis to forecast future debt trends using historical data and key economic factors, providing insights into potential debt scenarios for the coming years.
 
 ### Visualizations
 
