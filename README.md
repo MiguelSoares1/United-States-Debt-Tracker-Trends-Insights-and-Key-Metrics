@@ -27,22 +27,28 @@ stakeholder presentations.
 1. **Data Cleaning**:
 o Handled missing or incorrect data using techniques like interpolation
 and formula validation.
+
 o Removed redundant entries to ensure a consistent dataset.
+
 2. **Trend Analysis**:
 o Tracked total debt over decades to identify growth patterns and periods
 of significant change.
+
 3. **Key Metrics Calculation**:
 o Debt-to-GDP Ratio: Determined the percentage of debt relative to the
 national GDP for each year.
-o Year-over-Year Growth: Calculated annual changes in debt to highlight
+
+4. Year-over-Year Growth: Calculated annual changes in debt to highlight
 rapid increases or decreases.
-4. **Predictive Analysis**:
+
+5. **Predictive Analysis**:
+o Performed a predictive analysis to forecast future debt trends using historical data and key economic factors, providing insights into potential debt scenarios for the coming years.
 
 ### Visualizations
 
 created dynamic charts to depict:
 
-o Predictive Analysis: Future Debt Trends.
+o Future Debt Trends.
 
 ![image](https://github.com/user-attachments/assets/507a6b1c-4f28-49a9-b659-b7a349de120a)
 
@@ -55,29 +61,29 @@ o Monthly debt changes.
 ![image](https://github.com/user-attachments/assets/cb7d1d32-0cbb-4f16-ba75-d518187687d1)
 
 Key Insights
-1. Debt Growth Over Time:
+1. **Debt Growth Over Time**:
 o The US debt has seen exponential growth over the last two decades,
 with significant increases during economic downturns and global
 crises.
 
-3. Debt-to-GDP Trends:
+2. **Debt-to-GDP Trends**:
 o The debt-to-GDP ratio crossed critical thresholds during major
 recessions, reflecting increased government borrowing to stabilize the
 economy.
 
-4. Year-on-Year Variability:
+3. **Year-on-Year Variability**:
 o Annual debt growth rates fluctuated, with the highest spikes observed
 during periods of emergency fiscal spending.
 
 ### Recommendations
-1. Fiscal Policy Optimization:
+1. **Fiscal Policy Optimization**:
 o Implement strategies to balance growth-oriented fiscal spending with
 debt control.
 
-3. Debt Management:
+2. **Debt Management**:
 o Monitor debt-to-GDP ratios and align government borrowing with
 sustainable economic expansion.
 
-5. Transparency in Debt Reporting:
+3. **Transparency in Debt Reporting**:
 o Enhance public awareness through regular updates on debt levels and
 their implications for economic stability.
