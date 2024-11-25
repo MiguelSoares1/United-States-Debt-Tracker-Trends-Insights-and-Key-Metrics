@@ -29,12 +29,24 @@ stakeholder presentations.
 o Handled missing or incorrect data using techniques like interpolation
 and formula validation.
 
+raw data: 
+
+![image](https://github.com/user-attachments/assets/f35bc914-c919-45e7-b2b1-1adcaae54d48)
+
+Clean data: 
+
+![image](https://github.com/user-attachments/assets/fb4459fe-6c80-4b00-addf-e228db1ba5a7)
+
+
 o Removed redundant entries to ensure a consistent dataset.
 
 2. **Trend Analysis**:
    
 o Tracked total debt over decades to identify growth patterns and periods
 of significant change.
+
+Example of Pivot table: ![image](https://github.com/user-attachments/assets/27a4d2dc-9cdc-458a-babb-5d10386ecd82)
+
 
 4. **Key Metrics Calculation**:
    
@@ -44,7 +56,9 @@ national GDP for each year.
 o **Year-over-Year Growth**: Calculated annual changes in debt to highlight
 rapid increases or decreases.
 
-o **Predictive Analysis**: Performed a predictive analysis to forecast future debt trends using historical data and key economic factors, providing insights into potential debt scenarios for the coming years.
+o **Predictive Analysis**: Performed a predictive analysis to forecast future debt trends using historical data and key economic factors, providing insights into potential debt scenarios for the coming years utilizing FORECAST.ETS().
+
+
 
 ### Visualizations
 
@@ -62,7 +76,7 @@ o Monthly debt changes.
 
 ![image](https://github.com/user-attachments/assets/cb7d1d32-0cbb-4f16-ba75-d518187687d1)
 
-Key Insights
+**Key Insights**
 1. **Debt Growth Over Time**:
 o The US debt has seen exponential growth over the last two decades,
 with significant increases during economic downturns and global
