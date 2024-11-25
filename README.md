@@ -40,7 +40,9 @@ rapid increases or decreases.
 4. Visualization:
 o Created dynamic charts to depict:
 o Debt growth over time.
+
 o Year-on-year debt changes.
+
 o Debt-to-GDP ratio trends.
 
 Key Insights
