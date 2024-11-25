@@ -38,7 +38,9 @@ o Year-over-Year Growth: Calculated annual changes in debt to highlight
 rapid increases or decreases.
 
 4. Visualization:
+   
 o Created dynamic charts to depict:
+
 o Debt growth over time.
 
 o Year-on-year debt changes.
