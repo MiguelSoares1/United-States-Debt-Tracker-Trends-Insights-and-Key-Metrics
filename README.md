@@ -45,7 +45,9 @@ o Removed redundant entries to ensure a consistent dataset.
 o Tracked total debt over decades to identify growth patterns and periods
 of significant change.
 
-Example of Pivot table: ![image](https://github.com/user-attachments/assets/27a4d2dc-9cdc-458a-babb-5d10386ecd82)
+Example of Pivot table:
+
+![image](https://github.com/user-attachments/assets/27a4d2dc-9cdc-458a-babb-5d10386ecd82)
 
 
 4. **Key Metrics Calculation**:
