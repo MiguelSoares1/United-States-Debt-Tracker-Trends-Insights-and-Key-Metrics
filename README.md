@@ -14,13 +14,13 @@ over-year growth, empowering stakeholders to understand the implications of debt
 levels on economic sustainability.
 
 ### Goals and Objectives
-1. Explore Debt Trends: Analyze the growth of US debt over time and identify
+1. **Explore Debt Trends**: Analyze the growth of US debt over time and identify
 significant patterns.
-2. Identify Key Metrics: Calculate and interpret metrics such as debt-to-GDP
+2. **Identify Key Metrics**: Calculate and interpret metrics such as debt-to-GDP
 ratio and annual growth rates.
-3. Clean and Organize Data: Ensure accuracy and reliability through thorough
+3. **Clean and Organize Data**: Ensure accuracy and reliability through thorough
 data cleaning.
-4. Visualize Findings: Use Excel to create clear and engaging charts for
+4. **Visualize Findings**: Use Excel to create clear and engaging charts for
 stakeholder presentations.
 
 ### Analysis Steps
